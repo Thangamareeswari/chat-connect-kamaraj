@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477355197530",
+    "project_id": "kalol-741cc",
+    "storage_bucket": "kalol-741cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477355197530:android:17c224f56820d0d8eb4463",
+        "android_client_info": {
+          "package_name": "com.eazyalgo.kalol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477355197530-5fpa7a75df0smqepc7v9rqhd0v299oin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXVPAeDVpe6b1SygDhNH7hvhroUGQ6_CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477355197530-5fpa7a75df0smqepc7v9rqhd0v299oin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
